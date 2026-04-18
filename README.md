@@ -74,8 +74,10 @@ HyperSniperOrchestrator
 
 ---
 
-More at [0xgrek.com](https://0xgrek.com/projects/ton-gift-flipper)
+More at [0xgrek.com](https://0xgrek.com)
 
 ---
 
-*Private repository — architecture overview only.*
+© 2024-2026 Serhii Ivanenko. All rights reserved.
+
+This repository contains architecture documentation only. Source code is proprietary and not available.
